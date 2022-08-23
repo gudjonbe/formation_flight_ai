@@ -3,4 +3,4 @@ include
 lib
 lib64
 pyvenv.cfg
-share
+share/man/man1
